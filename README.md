@@ -22,6 +22,7 @@ Filer is a two-pane file manager for macOS. It is designed to make working betwe
 2. Download the latest `Filer-*.pkg` installer.
 3. Open the downloaded package and follow the Installer steps.
 4. Open **Filer** from your Applications folder.
+*An error may display due to lack of licensing, this can by bypassed by entering privacy and security in your settings, and pressing 'open anyway'*
 
 macOS may ask you to grant Filer access to folders or files. Allow the relevant permissions for the locations you want to browse. If access is denied, review **System Settings → Privacy & Security**.
 
